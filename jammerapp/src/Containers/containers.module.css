@@ -14,3 +14,17 @@
 .logoHighlight{
     color: var(--turq);
 }
+
+.searchContainer{
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.searchInputContainer{
+    display: flex;
+    justify-content: center;
+}
