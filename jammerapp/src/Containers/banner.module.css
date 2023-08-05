@@ -1,0 +1,16 @@
+.banner{
+    background: var(--dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 50vh 50vh;
+}
+
+.logo{
+    font-size: 10rem;
+    color: var(--silver);
+}
+
+.logoHighlight{
+    color: var(--turq);
+}
